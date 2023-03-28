@@ -164,11 +164,11 @@ section {
 
 .slide_01_box {
   height: 1080px;
-  background-image: url("../img/home_slide_1.jpg");
+  background-image: url("..img/home_slide_1.jpg");
 }
 .slide_02_box {
   height: 1080px;
-  background-image: url("../img/home_slide_2.jpg");
+  background-image: url("..img/home_slide_2.jpg");
 }
 
 .slide_01_box > .sd_bt > h1 {
@@ -513,7 +513,7 @@ section.portfolio_1 {
   height: 500px;
 }
 .POR_side {
-  /*background: url('/img/portfolio_1/1-2.jpg') no-repeat left;*/
+  /*background: url('img/portfolio_1/1-2.jpg') no-repeat left;*/
   background-size: cover;
   background-color: #4f628e;
   border-right: 1px solid #cacaca;
@@ -521,7 +521,7 @@ section.portfolio_1 {
   position: relative;
 }
 .POR_main {
-  /*background: url('/img/portfolio_1/1-1.jpg') no-repeat right;*/
+  /*background: url('img/portfolio_1/1-1.jpg') no-repeat right;*/
   background-size: cover;
   background-color: #7887ab;
   z-index: 1;
@@ -529,80 +529,80 @@ section.portfolio_1 {
 }
 
 .POR_01 .POR_side {
-  background: url("/img/portfolio_1/2-2.jpg") no-repeat left;
+  background: url("img/portfolio_1/2-2.jpg") no-repeat left;
 }
 .POR_01 .POR_main {
-  background: url("/img/portfolio_1/2-1.jpg") no-repeat right;
+  background: url("img/portfolio_1/2-1.jpg") no-repeat right;
 }
 
 .POR_02 .POR_side {
-  background: url("/img/portfolio_1/1-2.jpg") no-repeat left;
+  background: url("img/portfolio_1/1-2.jpg") no-repeat left;
 }
 .POR_02 .POR_main {
-  background: url("/img/portfolio_1/1-1.jpg") no-repeat right;
+  background: url("img/portfolio_1/1-1.jpg") no-repeat right;
 }
 
 .POR_03 .POR_side {
-  background: url("/img/portfolio_1/3-2.jpg") no-repeat left;
+  background: url("img/portfolio_1/3-2.jpg") no-repeat left;
 }
 .POR_03 .POR_main {
-  background: url("/img/portfolio_1/3-1.jpg") no-repeat right;
+  background: url("img/portfolio_1/3-1.jpg") no-repeat right;
 }
 
 .POR_04 .POR_side {
-  background: url("/img/portfolio_1/7-2.jpg") no-repeat left;
+  background: url("img/portfolio_1/7-2.jpg") no-repeat left;
 }
 .POR_04 .POR_main {
-  background: url("/img/portfolio_1/7-1.jpg") no-repeat right;
+  background: url("img/portfolio_1/7-1.jpg") no-repeat right;
 }
 
 .POR_05 .POR_side {
-  background: url("/img/portfolio_1/5-2.jpg") no-repeat left;
+  background: url("img/portfolio_1/5-2.jpg") no-repeat left;
 }
 .POR_05 .POR_main {
-  background: url("/img/portfolio_1/5-1.jpg") no-repeat right;
+  background: url("img/portfolio_1/5-1.jpg") no-repeat right;
 }
 
 .POR_06 .POR_side {
-  background: url("/img/portfolio_1/4-2.jpg") no-repeat left;
+  background: url("img/portfolio_1/4-2.jpg") no-repeat left;
 }
 .POR_06 .POR_main {
-  background: url("/img/portfolio_1/4-1.jpg") no-repeat right;
+  background: url("img/portfolio_1/4-1.jpg") no-repeat right;
 }
 
 .POR_07 .POR_side {
-  background: url("/img/portfolio_1/6-2.jpg") no-repeat left;
+  background: url("img/portfolio_1/6-2.jpg") no-repeat left;
 }
 .POR_07 .POR_main {
-  background: url("/img/portfolio_1/6-1.jpg") no-repeat right;
+  background: url("img/portfolio_1/6-1.jpg") no-repeat right;
 }
 
 .POR_08 .POR_side {
-  background: url("/img/portfolio_1/8-2.jpg") no-repeat left;
+  background: url("img/portfolio_1/8-2.jpg") no-repeat left;
 }
 .POR_08 .POR_main {
-  background: url("/img/portfolio_1/8-1.jpg") no-repeat right;
+  background: url("img/portfolio_1/8-1.jpg") no-repeat right;
 }
 
 .POR_09 .POR_side {
-  background: url("/img/portfolio_1/10-2.jpg") no-repeat left;
+  background: url("img/portfolio_1/10-2.jpg") no-repeat left;
 }
 .POR_09 .POR_main {
-  background: url("/img/portfolio_1/10-1.jpg") no-repeat right;
+  background: url("img/portfolio_1/10-1.jpg") no-repeat right;
 }
 
 .POR_10 .POR_side {
-  background: url("/img/portfolio_1/9-2.jpg") no-repeat left;
+  background: url("img/portfolio_1/9-2.jpg") no-repeat left;
 }
 .POR_10 .POR_main {
-  background: url("/img/portfolio_1/9-1.jpg") no-repeat right;
+  background: url("img/portfolio_1/9-1.jpg") no-repeat right;
 }
 
 .POR_11 .POR_side {
-  background: url("/img/portfolio_1/11-2.jpg") no-repeat left;
+  background: url("img/portfolio_1/11-2.jpg") no-repeat left;
 }
 .POR_11 .POR_main {
-  background: url("/img/portfolio_1/11-1.jpg") no-repeat right;
+  background: url("img/portfolio_1/11-1.jpg") no-repeat right;
 }
 
 .POR_dragbar {
@@ -746,47 +746,47 @@ section.portfolio_1 {
 }
 
 .right_menu_1 + .right_thumbnail {
-  background: url("/img/portfolio_1/2-1.jpg") no-repeat center;
+  background: url("img/portfolio_1/2-1.jpg") no-repeat center;
   background-size: cover;
 }
 .right_menu_2 + .right_thumbnail {
-  background: url("/img/portfolio_1/1-1.jpg") no-repeat center;
+  background: url("img/portfolio_1/1-1.jpg") no-repeat center;
   background-size: cover;
 }
 .right_menu_3 + .right_thumbnail {
-  background: url("/img/portfolio_1/3-1.jpg") no-repeat center;
+  background: url("img/portfolio_1/3-1.jpg") no-repeat center;
   background-size: cover;
 }
 .right_menu_4 + .right_thumbnail {
-  background: url("/img/portfolio_1/7-1.jpg") no-repeat center;
+  background: url("img/portfolio_1/7-1.jpg") no-repeat center;
   background-size: cover;
 }
 .right_menu_5 + .right_thumbnail {
-  background: url("/img/portfolio_1/5-1.jpg") no-repeat center;
+  background: url("img/portfolio_1/5-1.jpg") no-repeat center;
   background-size: cover;
 }
 .right_menu_6 + .moer_thumbnail {
-  background: url("/img/portfolio_1/4-1.jpg") no-repeat center;
+  background: url("img/portfolio_1/4-1.jpg") no-repeat center;
   background-size: cover;
 }
 .right_menu_7 + .moer_thumbnail {
-  background: url("/img/portfolio_1/6-1.jpg") no-repeat center;
+  background: url("img/portfolio_1/6-1.jpg") no-repeat center;
   background-size: cover;
 }
 .right_menu_8 + .moer_thumbnail {
-  background: url("/img/portfolio_1/8-1.jpg") no-repeat center;
+  background: url("img/portfolio_1/8-1.jpg") no-repeat center;
   background-size: cover;
 }
 .right_menu_9 + .moer_thumbnail {
-  background: url("/img/portfolio_1/10-1.jpg") no-repeat center;
+  background: url("img/portfolio_1/10-1.jpg") no-repeat center;
   background-size: cover;
 }
 .right_menu_10 + .moer_thumbnail {
-  background: url("/img/portfolio_1/9-1.jpg") no-repeat center;
+  background: url("img/portfolio_1/9-1.jpg") no-repeat center;
   background-size: cover;
 }
 .right_menu_11 + .moer_thumbnail {
-  background: url("/img/portfolio_1/11-1.jpg") no-repeat center;
+  background: url("img/portfolio_1/11-1.jpg") no-repeat center;
   background-size: cover;
 }
 
@@ -1031,115 +1031,115 @@ ul.por_2_GNB > li {
   background-size: contain;
 }
 .slide_all > .PS_2_1 > .slid_img_1 {
-  background: url("/img/portfolio_2/포르투나2.jpg") no-repeat center top -10px/100%;
+  background: url("img/portfolio_2/포르투나2.jpg") no-repeat center top -10px/100%;
   height: 600px;
 }
 .slide_all > .PS_2_2 > .slid_img_1 {
-  background: url("/img/portfolio_2/모카라디오.jpg") no-repeat center top/100%;
+  background: url("img/portfolio_2/모카라디오.jpg") no-repeat center top/100%;
   height: 450px;
 }
 .slide_all > .PS_2_3 > .slid_img_1 {
-  background: url("/img/portfolio_2/3D상자.jpg") no-repeat center top/100%;
+  background: url("img/portfolio_2/3D상자.jpg") no-repeat center top/100%;
   height: 300px;
 }
 .slide_all > .PS_2_4 > .slid_img_1 {
-  background: url("/img/portfolio_2/소니.jpg") no-repeat center top -10px/100%;
+  background: url("img/portfolio_2/소니.jpg") no-repeat center top -10px/100%;
   height: 600px;
 }
 .slide_all > .PS_2_5 > .slid_img_1 {
-  background: url("/img/portfolio_2/3d인스타.jpg") no-repeat center top/180%;
+  background: url("img/portfolio_2/3d인스타.jpg") no-repeat center top/180%;
   height: 300px;
 }
 .slide_all > .PS_2_6 > .slid_img_1 {
-  background: url("/img/portfolio_2/고래.jpg") no-repeat center top -10px/100%;
+  background: url("img/portfolio_2/고래.jpg") no-repeat center top -10px/100%;
   height: 450px;
 }
 .slide_all > .PS_2_7 > .slid_img_1 {
-  background: url("/img/portfolio_2/한솥.png") no-repeat center top / 100%;
+  background: url("img/portfolio_2/한솥.png") no-repeat center top / 100%;
   height: 600px;
 }
 .slide_all > .PS_2_8 > .slid_img_1 {
-  background: url("/img/portfolio_2/글래스아이콘.jpg") no-repeat center top -10px/140%;
+  background: url("img/portfolio_2/글래스아이콘.jpg") no-repeat center top -10px/140%;
   height: 300px;
 }
 .slide_all > .PS_2_9 > .slid_img_1 {
-  background: url("/img/portfolio_2/바다바다.jpg") no-repeat center top / 100%;
+  background: url("img/portfolio_2/바다바다.jpg") no-repeat center top / 100%;
   height: 450px;
 }
 .slide_all > .PS_2_10 > .slid_img_1 {
-  background: url("/img/portfolio_2/반반.jpg") no-repeat center top / 200%;
+  background: url("img/portfolio_2/반반.jpg") no-repeat center top / 200%;
   height: 300px;
 }
 .slide_all > .PS_2_11 > .slid_img_1 {
-  background: url("/img/portfolio_2/바나나.jpg") no-repeat center top -10px/100%;
+  background: url("img/portfolio_2/바나나.jpg") no-repeat center top -10px/100%;
   height: 600px;
 }
 .slide_all > .PS_2_12 > .slid_img_1 {
-  background: url("/img/portfolio_2/삼각형.jpg") no-repeat center top -10px/100%;
+  background: url("img/portfolio_2/삼각형.jpg") no-repeat center top -10px/100%;
   height: 450px;
 }
 .slide_all > .PS_2_13 > .slid_img_1 {
-  background: url("/img/portfolio_2/배경1.jpg") no-repeat center top / 100%;
+  background: url("img/portfolio_2/배경1.jpg") no-repeat center top / 100%;
   height: 450px;
 }
 .slide_all > .PS_2_14 > .slid_img_1 {
-  background: url("/img/portfolio_2/배경2.jpg") no-repeat center top / 100%;
+  background: url("img/portfolio_2/배경2.jpg") no-repeat center top / 100%;
   height: 450px;
 }
 .slide_all > .PS_2_15 > .slid_img_1 {
-  background: url("/img/portfolio_2/NAVER.png") no-repeat center top / 100%;
+  background: url("img/portfolio_2/NAVER.png") no-repeat center top / 100%;
   height: 450px;
 }
 .slide_all > .PS_2_16 > .slid_img_1 {
-  background: url("/img/portfolio_2/태권도1.jpg") no-repeat center top / 100%;
+  background: url("img/portfolio_2/태권도1.jpg") no-repeat center top / 100%;
   height: 300px;
 }
 .slide_all > .PS_2_17 > .slid_img_1 {
-  background: url("/img/portfolio_2/태권도2.jpg") no-repeat center top / 100%;
+  background: url("img/portfolio_2/태권도2.jpg") no-repeat center top / 100%;
   height: 300px;
 }
 .slide_all > .PS_2_18 > .slid_img_1 {
-  background: url("/img/portfolio_2/아이스크림.jpg") no-repeat center top / 100%;
+  background: url("img/portfolio_2/아이스크림.jpg") no-repeat center top / 100%;
   height: 450px;
 }
 .slide_all > .PS_2_19 > .slid_img_1 {
-  background: url("/img/portfolio_2/포르투나1.jpg") no-repeat center top / 100%;
+  background: url("img/portfolio_2/포르투나1.jpg") no-repeat center top / 100%;
   height: 600px;
 }
 .slide_all > .PS_2_20 > .slid_img_1 {
-  background: url("/img/portfolio_2/여행커피.jpg") no-repeat center top / 100%;
+  background: url("img/portfolio_2/여행커피.jpg") no-repeat center top / 100%;
   height: 450px;
 }
 .slide_all > .PS_2_21 > .slid_img_1 {
-  background: url("/img/portfolio_2/TOM_N_TOMS.png") no-repeat center top / 100%;
+  background: url("img/portfolio_2/TOM_N_TOMS.png") no-repeat center top / 100%;
   height: 600px;
 }
 .slide_all > .PS_2_22 > .slid_img_1 {
-  background: url("/img/portfolio_2/세일.jpg") no-repeat center top / 100%;
+  background: url("img/portfolio_2/세일.jpg") no-repeat center top / 100%;
   height: 450px;
 }
 .slide_all > .PS_2_23 > .slid_img_1 {
-  background: url("/img/portfolio_2/설날.jpg") no-repeat center top -10px/100%;
+  background: url("img/portfolio_2/설날.jpg") no-repeat center top -10px/100%;
   height: 300px;
 }
 .slide_all > .PS_2_24 > .slid_img_1 {
-  background: url("/img/portfolio_2/구독권할인.jpg") no-repeat center top -5px/100%;
+  background: url("img/portfolio_2/구독권할인.jpg") no-repeat center top -5px/100%;
   height: 450px;
 }
 .slide_all > .PS_2_25 > .slid_img_1 {
-  background: url("/img/portfolio_2/굿디자인.jpg") no-repeat center top / 200%;
+  background: url("img/portfolio_2/굿디자인.jpg") no-repeat center top / 200%;
   height: 300px;
 }
 .slide_all > .PS_2_26 > .slid_img_1 {
-  background: url("/img/portfolio_2/종이.jpg") no-repeat center top / 100%;
+  background: url("img/portfolio_2/종이.jpg") no-repeat center top / 100%;
   height: 300px;
 }
 .slide_all > .PS_2_27 > .slid_img_1 {
-  background: url("/img/portfolio_2/포토리뷰.jpg") no-repeat center top / 100%;
+  background: url("img/portfolio_2/포토리뷰.jpg") no-repeat center top / 100%;
   height: 300px;
 }
 .slide_all > .PS_2_28 > .slid_img_1 {
-  background: url("/img/portfolio_2/로켓배송.jpg") no-repeat center top / 120%;
+  background: url("img/portfolio_2/로켓배송.jpg") no-repeat center top / 120%;
   height: 300px;
 }
 
