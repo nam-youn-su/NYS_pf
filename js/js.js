@@ -1,7 +1,17 @@
 $(function () {
-  /*  $('.header_gmb > li').click(function(){
-    $(this).find('.gnb_sub').toggle();
-  });*/
+
+  $("html").easeScroll({
+    frameRate: 60,
+    animationTime: 500,
+    stepSize: 3,
+    pulseAlgorithm: !0,
+    pulseScale: 8,
+    pulseNormalize: 1,
+    accelerationDelta: 20,
+    accelerationMax: 1,
+    keyboardSupport: !0,
+    arrowScroll: 50
+  });
 
   let profile_1_height = $(".profile_1").height();
   $(".profile_2").height(profile_1_height);
