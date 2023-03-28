@@ -1,0 +1,97 @@
+.menu_slide_wrap {
+  width: 100%;
+  position: relative;
+}
+.menu_slide {
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+}
+
+.menu_item {
+  width: 33.333%;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+
+.item_img {
+  padding-top: 111%;
+  position: relative;
+}
+
+.menu_btn {
+  position: absolute;
+  top: 44%;
+  transform: translateY(-50%);
+  border: none;
+  cursor: pointer;
+  background: none;
+  width: 25px;
+}
+
+.menu_prev {
+  left: 8px;
+}
+
+.menu_next {
+  right: 8px;
+}
+
+.item_img::after {
+  content: "";
+  display: block;
+  border: 1px solid transparent;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  transition: all 0.4s;
+}
+
+.item_img:hover::after {
+  width: 95%;
+  height: 95%;
+  border-color: white;
+}
+
+.menu_slide_num_box {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.menu_pager_box {
+  display: flex;
+  margin: 0 10px;
+}
+
+.menu_pager {
+  cursor: pointer;
+  width: 14px;
+  height: 14px;
+  background-color: #999;
+  border-radius: 50%;
+  margin: 0 5px;
+}
+
+.menu_pager.on {
+  background: #572a31;
+}
+
+.menu_pager:hover {
+  background: #572a31;
+}
+
+.menu_slide_stop_go {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.menu_slide_stop_go > i {
+  pointer-events: none;
+}
