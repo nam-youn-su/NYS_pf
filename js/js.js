@@ -167,7 +167,7 @@ $( "#resizable" ).resizable({ ghost: true });
     } else {
       slide_all_x = slide_all_x - 720;
       $(".slide_all").css("transform", "translateX(" + slide_all_x + "px)");
-      console.log(slide_all_x);
+      // console.log(slide_all_x);
     }
 
     if (slide_all_x < 0) {
