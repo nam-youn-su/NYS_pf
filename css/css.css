@@ -8,8 +8,9 @@ a {
   color: #333;
   text-decoration: none;
 }
-html {
-  scroll-behavior: smooth;
+html {  
+  max-width: 1920px;
+  min-width: 1920px;
 }
 /*
 html::-webkit-scrollbar{
