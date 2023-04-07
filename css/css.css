@@ -697,6 +697,9 @@ section.portfolio_1 {
 .left_btn > a:nth-child(1) {
   margin-right: 15px;
 }
+.left_btn > a:nth-child(2) {
+  margin-right: 15px;
+}
 
 .in_html {
   border: 1px solid #e96329;
