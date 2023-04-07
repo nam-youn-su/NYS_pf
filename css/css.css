@@ -396,7 +396,7 @@ section.about > div {
   left: 1050px;
   height: 170px;
 }
-.EDUCATION_N_CERTIFICATE > .EC_box:nth-child(8) { 
+.EDUCATION_N_CERTIFICATE > .EC_box:nth-child(8) {
   left: 1000px;
   height: 160px;
   width: 400px;
@@ -694,9 +694,7 @@ section.portfolio_1 {
   background-color: #224aaf;
 }
 
-.left_btn > a:nth-child(1) {
-  margin-right: 15px;
-}
+.left_btn > a:nth-child(1),
 .left_btn > a:nth-child(2) {
   margin-right: 15px;
 }
